@@ -1,17 +1,10 @@
-public class Gerente extends Funcionario implements Autenticavel{
+public class Cliente implements Autenticavel{
 
     private AutenticacaoCodigo autentica;
 
 
-
-    Gerente(){
+    Cliente(){
         this.autentica = new AutenticacaoCodigo();
-    }
-
-
-    @Override
-    public double getBonifica(){
-        return super.getSalario();
     }
 
 

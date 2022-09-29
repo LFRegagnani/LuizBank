@@ -2,39 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb3fb601-899a-4f82-8904-ad5a36e50a67" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LuizBank-Encapsulado/LuizBank-Encapsulado.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LuizBank-Encapsulado/src/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LuizBank-Encapsulado/src/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LuizBank-Encapsulado/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LuizBank-Encapsulado/src/TestaGetESet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LuizBank-Encapsulado/src/TestaValores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LuizBank-Herdado/LuizBank-Herdado.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LuizBank-Herdado/src/ControleBonificacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LuizBank-Herdado/src/Designer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LuizBank-Herdado/src/EditorDeVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LuizBank-Herdado/src/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LuizBank-Herdado/src/Gerente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LuizBank-Herdado/src/TestaGerente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LuizBank-Herdado/src/TesteReferencias.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LuizBank-Herdado/src/testeFuncionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LuizBank.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LuizBankComposto/LuizBankComposto.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LuizBankComposto/src/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LuizBankComposto/src/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LuizBankComposto/src/TestaBanco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LuizBankComposto/src/TestaContaSemCliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LuizBankComposto/src/TesteSacaNegativo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CriaConta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestaMetodos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testeReferencias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LuizBank-Herdado/src/Administrador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LuizBank-Herdado/src/AutenticacaoCodigo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LuizBank-Herdado/src/Autenticavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LuizBank-Herdado/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LuizBank-Herdado/src/MaisUmTesteDeAutenticacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LuizBank-Herdado/src/SistemaInterno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LuizBank-Herdado/src/TesteDeAutenticacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LuizBank-Herdado/src/Designer.java" beforeDir="false" afterPath="$PROJECT_DIR$/LuizBank-Herdado/src/Designer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LuizBank-Herdado/src/EditorDeVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/LuizBank-Herdado/src/EditorDeVideo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LuizBank-Herdado/src/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/LuizBank-Herdado/src/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LuizBank-Herdado/src/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/LuizBank-Herdado/src/Gerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LuizBank-Herdado/src/testeFuncionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/LuizBank-Herdado/src/testeFuncionario.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,10 +57,10 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TesteReferencias">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="LuizBank-Encapsulado" />
+  <component name="RunManager" selected="Application.MaisUmTesteDeAutenticacao">
+    <configuration name="MaisUmTesteDeAutenticacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaisUmTesteDeAutenticacao" />
+      <module name="LuizBank-Herdado" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -92,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteDaTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TesteDaTeste" />
+    <configuration name="TesteDeAutenticacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TesteDeAutenticacao" />
       <module name="LuizBank-Herdado" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -115,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TesteReferencias" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.testeFuncionario" />
+        <item itemvalue="Application.MaisUmTesteDeAutenticacao" />
+        <item itemvalue="Application.TesteDeAutenticacao" />
         <item itemvalue="Application.TestaGerente" />
-        <item itemvalue="Application.TesteDaTeste" />
+        <item itemvalue="Application.testeFuncionario" />
+        <item itemvalue="Application.TesteReferencias" />
       </list>
     </recent_temporary>
   </component>
@@ -132,10 +112,19 @@
       <option name="presentableId" value="Default" />
       <updated>1664124396737</updated>
     </task>
+    <task id="LOCAL-00001" summary="atualizado transformando funcionario em uma classe abstrata e a bonificação em um metodo abstrato.">
+      <created>1664455190646</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664455190646</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="atualizado transformando funcionario em uma classe abstrata e a bonificação em um metodo abstrato." />
+    <option name="LAST_COMMIT_MESSAGE" value="atualizado transformando funcionario em uma classe abstrata e a bonificação em um metodo abstrato." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

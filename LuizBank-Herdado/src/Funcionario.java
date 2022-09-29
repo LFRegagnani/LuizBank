@@ -2,7 +2,7 @@ public abstract class Funcionario {
     private String nome;
     private String cpf;
     private double salario;
-    private int senha;
+
 
 
 public Funcionario(){
@@ -11,16 +11,7 @@ public Funcionario(){
 
 
 
-    public boolean autentica(int senha){//FUNCIONALIDADE DO GERENTE
-        if(this.senha == senha){
-        return false;
-        }else{
-        return false;
-        }
-    }
-    public void setSenha(int senha) {// FUNCIONALIDADE DO GERENTE
 
-    }
 
 
 //GETS E SETTS
@@ -50,4 +41,5 @@ public Funcionario(){
     public void setSalario(double salario) {
         this.salario = salario;
     }
+
 }

@@ -8,14 +8,14 @@ public class testeFuncionario {
         System.out.println(ze.getSalario());
         System.out.println(ze.getBonifica());
 
-        Funcionario luiz = new Gerente();
-        luiz.setSalario(5000);
-
-        System.out.println(luiz.getBonifica());
-        System.out.println(ze.getBonifica());
-
-        luiz.setSenha(92);
-        luiz.autentica(92);
+//        Autenticavel luiz = new Gerente();
+//        luiz.setSalario(5000);
+//
+//        System.out.println(luiz.getBonifica());
+//        System.out.println(ze.getBonifica());
+//
+//        luiz.setSenha(92);
+//        luiz.autentica(92);
 
     }
 
