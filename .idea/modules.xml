@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LuizBank.iml" filepath="$PROJECT_DIR$/LuizBank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LuizBank-Encapsulado/LuizBank-Encapsulado.iml" filepath="$PROJECT_DIR$/LuizBank-Encapsulado/LuizBank-Encapsulado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LuizBank-Herdado/LuizBank-Herdado.iml" filepath="$PROJECT_DIR$/LuizBank-Herdado/LuizBank-Herdado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LuizBankComposto/LuizBankComposto.iml" filepath="$PROJECT_DIR$/LuizBankComposto/LuizBankComposto.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb3fb601-899a-4f82-8904-ad5a36e50a67" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LuizBank-Encapsulado/LuizBank-Encapsulado.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LuizBank-Encapsulado/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LuizBank-Encapsulado/src/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LuizBank-Encapsulado/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LuizBank-Encapsulado/src/TestaGetESet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LuizBank-Encapsulado/src/TestaValores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LuizBank-Herdado/LuizBank-Herdado.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LuizBank-Herdado/src/ControleBonificacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LuizBank-Herdado/src/Designer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LuizBank-Herdado/src/EditorDeVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LuizBank-Herdado/src/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LuizBank-Herdado/src/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LuizBank-Herdado/src/TestaGerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LuizBank-Herdado/src/TesteReferencias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LuizBank-Herdado/src/testeFuncionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LuizBank.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LuizBankComposto/LuizBankComposto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LuizBankComposto/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LuizBankComposto/src/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LuizBankComposto/src/TestaBanco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LuizBankComposto/src/TestaContaSemCliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LuizBankComposto/src/TesteSacaNegativo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CriaConta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestaMetodos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testeReferencias.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FGhasNkEHtHo09zseYUlRiHr5N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "C:/Users/Luiz_/IdeaProjects/LuizBank"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Luiz_\IdeaProjects\LuizBank\LuizBank-Encapsulado\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TesteReferencias">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="LuizBank-Encapsulado" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestaGerente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestaGerente" />
+      <module name="LuizBank-Herdado" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteDaTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TesteDaTeste" />
+      <module name="LuizBank-Herdado" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteReferencias" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TesteReferencias" />
+      <module name="LuizBank-Herdado" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testeFuncionario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testeFuncionario" />
+      <module name="LuizBank-Herdado" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TesteReferencias" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.testeFuncionario" />
+        <item itemvalue="Application.TestaGerente" />
+        <item itemvalue="Application.TesteDaTeste" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb3fb601-899a-4f82-8904-ad5a36e50a67" name="Changes" comment="" />
+      <created>1664124396737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664124396737</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/LuizBankComposto/src/TestaBanco.java</url>
+          <line>1</line>
+          <properties class="TestaBanco" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
